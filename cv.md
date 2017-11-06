@@ -1,12 +1,12 @@
-# Overview
+# Curriculum vitae
 
-У меня широкий кругозор в области ИТ.
-Я занимался как разработкой, так и аналитической работой в сфере межгосударственного информационного взаимодействия, здравоохранения.
-Также я имею опыт 
+## Overview
 
-# Key skills
+У меня широкий кругозор в области ИТ. Я занимался как разработкой, так и аналитической работой в сферах межгосударственного информационного взаимодействия и здравоохранения. Также я имею опыт статистического анализа медицинских данных, опыт разработки OLAP кубов и значительный опыт веб-разработки. На данный момент мне наиболее интересны модельно-ориентированная разработка, EDI и анализ данных.
 
-## Modelling methodologies and models
+## Key skills
+
+### Modelling methodologies and models
 
 - UN/CEFACT UMM - 4 years, good
 - UN/CEFACT CCTS + CCL - 4 years, good
@@ -15,13 +15,13 @@
 - NIEM - 1 year, good
 - WIPO Standard ST.96, ISO 7372, UBL, eTIR, eFreight, HL7- basic knowledge
 
-## Modelling languages
+### Modelling languages
 
 - UML - 10 years, excellent
 - BPMN - 5 years, good
 - IDEFx - 3 years, good
 
-## Model-driven development
+### Model-driven development
 
 - QVTo - 4 years, excellent
 - Acceleo - 4 years, excellent
@@ -30,7 +30,7 @@
 - EMFText - 4 years, good
 - Eclipse Sirius - 2 years, good
 
-## Enterprise development
+### Enterprise development
 
 - C# - 5 years, good
 - WinForms - 5 years, good
@@ -40,7 +40,7 @@
 - Java - 2 years, average
 - Assembler x86, C, C++, Haskell, OCaml, Lisp, Prolog, Python, Ruby, Isabelle HOL, etc. - basic knowledge
 
-## Web development
+### Web development
 
 - PHP - 10 years, good
 - HTML - 10 years, excellent
@@ -50,13 +50,13 @@
 - d3js - 3 years, good
 - JayData, Backbone.js, Knockout.js, etc. - basic knowledge
 
-## XML
+### XML
 
 - XSLT - 10 years, excellent
 - XSD - 10 years, excellent
 - XPath - 10 years, excellent
 
-## Database and data warehouse
+### Database and data warehouse
 
 - SQL Server - 5 years, good
 - SSAS - 5 years, good
@@ -66,55 +66,57 @@
 - Oracle - 1 year, average
 - Anchor, Data Vault - basic knowledge
 
-## Statistics
+### Statistics
 
 - SPSS - 3 years, good
 - Statistica - 3 years, good
 - Self-written plugin for Excel - 3 years, good
 - R - 1 year, good
 
-## CASE tools
+### CASE tools
 
 - Rational Software Architect - 5 years, excellent
 - Signavio Oryx - 3 years, good
 - EleWise ELMA - 3 years, good
 - ERwin Process (and Data) Modeler - 3 years, good
 
-## OS
+### OS
 
 - Windows - 20 years, good
 - Linux - 10 years, good
 
-# Experience
+## Experience
 
-## March 2013 – Present
+### March 2013 – Present
 Expert of the modelling methodology group
 
-## Aug. 2008 – Feb. 2013, Bonum (one of the largest children rehabilitation centers in Russia)
+
+
+### Aug. 2008 – Feb. 2013, Bonum (one of the largest children rehabilitation centers in Russia)
 Lead developer (C#) and project manager
 
-## July 2007 – June 2012, Ural Federal University
+### July 2007 – June 2012, Ural Federal University
 Teacher on business process modelling
 
-## Jan. 2000 – Dec. 2005, Freelance
+### Jan. 2000 – Dec. 2005, Freelance
 Web-developer
 
-# Education
+## Education
 
-## 2007, Ural Federal University, Computer Science Department
+### 2007, Ural Federal University, Computer Science Department
 Engineer, specialist in computer systems and networks
 
-# Certification
+## Certification
 
-## 2012, Ural Institute of Stock Market
+### 2012, Ural Institute of Stock Market
 Certificate of professional development on venture capital financing
 
-## 2017, DataCamp
+### 2017, DataCamp
 About 10 online courses on R, Machine Learning, Data Visualization, etc.
 
-# Publications
+## Publications
 
-## Scientific
+### Scientific
 
 - An Approach to Multi-Domain Data Model Development Based on the Model-Driven Architecture and Ontologies
 - An Ontology-Driven Approach to Electronic Document Structure Design
@@ -129,7 +131,7 @@ Several articles as a co-author:
 
 You can find them [here](https://www.researchgate.net/profile/Denis_Nikiforov3).
 
-## Non-Scientific
+### Non-Scientific
 
 - Объектный язык ограничений (и немного про метамодели)
 - Разработка метамодели с помощью Eclipse Modeling Framework (и немного про моделирование данных)
