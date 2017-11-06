@@ -76,9 +76,9 @@
 ### CASE tools
 
 - Rational Software Architect - 5 years, excellent
+- ERwin Process (and Data) Modeler - 3 years, good
 - Signavio Oryx - 3 years, good
 - EleWise ELMA - 3 years, good
-- ERwin Process (and Data) Modeler - 3 years, good
 
 ### OS
 
@@ -90,7 +90,7 @@
 ### March 2013 – Present
 Expert of the modelling methodology group
 
-
+Я участвовал в качестве методолога в одном из крупнейших интеграционных проектов в бывшем СССР - Integrated information system of the Eurasian Economic Union (EAEU). 
 
 ### Aug. 2008 – Feb. 2013, Bonum (one of the largest children rehabilitation centers in Russia)
 Lead developer (C#) and project manager
@@ -142,4 +142,4 @@ You can find them [here](https://www.researchgate.net/profile/Denis_Nikiforov3).
 - Введение в преобразование моделей (или преобразование, которое создаёт преобразование, которое создаёт модель)
 - Теория категорий на JavaScript. Часть 1. Категория множеств
 
-You can find them [here](https://habrahabr.ru/users/ares_ekb/posts/).
+You can find them [here](https://habrahabr.ru/users/ares_ekb/posts/) (in Russian).
