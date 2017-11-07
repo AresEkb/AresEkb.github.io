@@ -6,6 +6,12 @@ I have a broad outlook in the field of IT. I was engaged in both development and
 
 At present I'm trying to finish my PhD thesis on OCL to XPath transformation. I'm stuck a little bit on it's formal verification using Isabelle HOL.
 
+## Contacts
+
+Name: Denis
+Phone: +7(902)255-88-30
+E-mail: denis.nikif@gmail.com
+
 ## Key skills
 
 ### Modelling methodologies and models
