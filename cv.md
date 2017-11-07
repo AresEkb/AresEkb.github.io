@@ -2,7 +2,7 @@
 
 ## Overview
 
-У меня широкий кругозор в области ИТ. Я занимался как разработкой, так и аналитической работой в сферах межгосударственного информационного взаимодействия и здравоохранения. Также я имею опыт статистического анализа медицинских данных, опыт разработки OLAP кубов и значительный опыт веб-разработки. На данный момент мне наиболее интересны модельно-ориентированная разработка, EDI и анализ данных.
+I have a broad outlook in the field of IT. I was engaged in both development and analytical work in the fields of intergovernemnt information exchange and healthcare. Also I have experience in statistical analysis of medical data, experience in OLAP cube development and considerable experience in web development. At the moment, I'm most interested in model-driven development, EDI and data analysis.
 
 ## Key skills
 
@@ -92,21 +92,23 @@ Expert of the modelling methodology group
 
 #### Integrated information system of the Eurasian Economic Union (EAEU)
 
-Я участвовал в качестве методолога в одном из крупнейших интеграционных проектов в бывшем СССР - Integrated information system of the EAEU. Суть проекта заключается в упрощении информационного взаимодействия между уполномоченными органами государств-членов ЕАЭС. Было определено более сотни трансграничных общих процессов. Для каждого процесса было необходимо разработать нормативную документацию и реализовать его. Объемы нормативной документации должны были насчитывать десятки тысяч страниц и дюжина компаний должна была их разрабатывать и реализовывать.
+I participated as a methodologist in one of the largest integration projects in the ex-USSR - Integrated information system of the EAEU. The essence of the project is to simplify the information exchange between authorities of EAEU member states. Over one hundred cross-border common processes were identified. For each process, it was necessary to develop legal normative documentation and implement it in code. The volumes of the documents were to be tens of thousands of pages and a dozen companies had to develop and implement them.
 
-В рамках НИОКР мы проанализоровали аналогичные проекты (UN/CEFACT, NIEM, WCO DM, etc.) и предложили разработать единую методику моделирования общих процессов и структур электронных документов. In a very truncated form it was adopted by the Decision No 63 of the College of the Eurasian Economic Commission at 09.06.2015 "On Methodology of analysis, harmonization and description of common processes under the Eurasian Economic Union". Более сотни аналитиков из дюжины компаний в соответствии с данной методикой разрабатывали UML модели. I developed an UML profile (with hundreds OCL constraints) for the modelling methodology.
+During R&D, we analyzed similar projects (UN/CEFACT, NIEM, WCO DM, etc.) and proposed to develop a methodology for modeling common processes and structures of electronic documents. In a very truncated form it was adopted by the Decision No 63 of the College of the Eurasian Economic Commission at 09.06.2015 "On Methodology of analysis, harmonization and description of common processes under the Eurasian Economic Union". I developed part of the methodology and an UML profile (with hundreds of OCL constraints) for the methodology. More than a hundred analysts from a dozen companies in accordance with this methodology developed UML models.
 
 Данные UML модели загружались в репозиторий моделей (eomi.eaeunion.org), в котором на их основе формировались нормативные документы для процессов и XML схемы. Я участвовал в разработке данного репозиторий в качестве системного аналитика. Также, в качестве бизнес-аналитика, я участвовал в проектировании некоторых общих процессов mainly in the areas of intellectual property, transport control, sanitary and veterinary control, drug circulation, etc.
 
-Also, I trained analysts of UML, OCL, BPMN, XSD, etc., advised them on modelling issues, and controlled the modelling quality. I developed plugins for Rational Software Architect Designer для упрощения работы аналитиков.
+UML models were uploaded into the model repository (eomi.eaeunion.org), in which the normative documents for processes and XML schemas were generated. I participated in the development of the repository as a system analyst. Also, as a business analyst, I participated in the design of some common processes mainly in the areas of intellectual property, transport control, sanitary and veterinary control, drug circulation, etc.
+
+Also, I trained analysts of UML, OCL, BPMN, XSD, etc., advised them on modelling issues, and controlled the modelling quality. I developed plugins for Rational Software Architect Designer to simplify the work of analysts.
 
 #### Improved analogue of SWIFT MyStandards for The Central Bank of the Russian Federation
 
-Это был мой второй крупный проект в данной компании. Банк России принял решение использовать ISO 20022 для финансовых сообщений. Один из основных недостатков ISO 20022 заключается в том, что он не предлагает механизм формального описания правил валидации сообщений. Обычно правила описываются на естественном языке и затем реализуются вручную. Мы предложили описывать данные правила на формальном Object Constraint Language (OCL) и затем формировать на их основе XSLT, Java и другие реализации под требуемые платформы. Это позволяет полностью исключить разработчиков из процесса разработки правил и сэкономить значительные ресурсы. The idea is mentioned in the Bank of Russia Standard STO BR NPS-1.0-2017 "Financial messages in the NPS. General terms".
+This was my second major project in this company. The Bank of Russia decided to use ISO 20022 for financial messages. One of the main drawbacks of ISO 20022 is that it does not offer a mechanism for formal description of message validation rules. Usually rules are described in natural language and then implemented manually in programming language. We proposed to describe these rules on the formal Object Constraint Language (OCL) and then generate XSLT, Java, and other implementations for the required platforms. This allows one to completely exclude developers from the process of rule development and save significant resources. The idea is mentioned in the Bank of Russia Standard STO BR NPS-1.0-2017 "Financial messages in the NPS. General terms".
 
 I developed a translator from UML models with OCL expressions to XSLT or Java code with XPath expressions.
 
-По тематике обоих проектов опубликован ряд публикаций (см. Публикации ниже).
+A number of publications have been published on the subject of both projects (see Publications section below).
 
 ### Aug. 2008 – Feb. 2013, Bonum (one of the largest children rehabilitation centers in Russia)
 Lead developer (C#) and project manager
@@ -117,7 +119,7 @@ At the time the work began, Bonum already used a number of disparate accounting 
 
 The following modules were implemented: polyclinic, hospital, paid services (cosmetology, stomatology), electronic health record, laboratory, sick list, situational center, contact center, science, publications, HR, purchases, PACS (DCM4CHEE), analytics (SSAS).
 
-Также я автоматизировал формирование большей части отчетности с помощью OLAP. Я реализовал OLAP cubes for ambulatory, hospital, and medical follow-up.
+I also automated the formation of most of the reporting using OLAP. I implemented OLAP cubes for ambulatory, hospital, and medical follow-up.
 
 #### Analytical work
 
@@ -131,7 +133,7 @@ I helped doctors with statistical data analysis in their dissertation research (
 
 I developed and maintened information kiosks (C#, WPF), website www.bonum.info (PHP, Drupal, HTML, CSS). It worked successfully for several years. Unfortunately, now the company lacks its own web-developers, so the site was replaced by a typical solution: with pictures of 200px wide on the screen and 5Mb in size, without forum, etc.
 
-Я инициировал и руководил проектом on the IP telephony implementation (4 distributed offices) and the contact center creation.
+I initiated and leaded the project on the IP telephony implementation (4 distributed offices) and the contact center creation.
 
 I wrote several scientific articles on function cost analysis, balanced scorecard, process modelling, etc. in healthcare.
 
@@ -175,13 +177,13 @@ You can find them [here](https://www.researchgate.net/profile/Denis_Nikiforov3).
 
 ### Non-Scientific
 
-- Объектный язык ограничений (и немного про метамодели)
-- Разработка метамодели с помощью Eclipse Modeling Framework (и немного про моделирование данных)
-- Разработка визуального языка моделирования с помощью Sirius
-- Руководство по поиску работы для MDA-специалиста (и немного про метод анализа иерархий, Xcore и Sirius)
-- Введение в разработку предметно-ориентированных языков (DSL) с помощью EMFText
-- Разработка парсера, кодогенератора и редактора SQL с помощью EMFText
-- Введение в преобразование моделей (или преобразование, которое создаёт преобразование, которое создаёт модель)
-- Теория категорий на JavaScript. Часть 1. Категория множеств
+- The Object Constraint Language (and a little bit about metamodels)
+- A Metamodel Development using Eclipse Modeling Framework (and a little bit about data modelling)
+- A Visual Modeling Language Development using Sirius
+- A Job Search Guide for an MDA specialist (and a little bit about the analytic hierarchy process, Xcore and Sirius)
+- Introduction to Domain-Specific Language (DSL) Development using EMFText
+- Development of a Parser, Code Generator and SQL Editor using EMFText
+- Introduction to the Model Transformation (or a Transformation that Creates a Transformation that Creates a Model)
+- Category Theory in JavaScript. Part 1. The Category of Sets
 
 You can find them [here](https://habrahabr.ru/users/ares_ekb/posts/) (in Russian).
