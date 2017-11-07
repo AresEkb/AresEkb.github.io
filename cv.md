@@ -4,6 +4,8 @@
 
 I have a broad outlook in the field of IT. I was engaged in both development and analytical work in the fields of intergovernemnt information exchange and healthcare. Also I have experience in statistical analysis of medical data, experience in OLAP cube development and considerable experience in web development. At the moment, I'm most interested in model-driven development, EDI and data analysis.
 
+At present I'm trying to finish my PhD thesis on OCL to XPath transformation. I'm stuck a little bit on it's formal verification using Isabelle HOL.
+
 ## Key skills
 
 ### Modelling methodologies and models
@@ -94,11 +96,9 @@ Expert of the modelling methodology group
 
 I participated as a methodologist in one of the largest integration projects in the ex-USSR - Integrated information system of the EAEU. The essence of the project is to simplify the information exchange between authorities of EAEU member states. Over one hundred cross-border common processes were identified. For each process, it was necessary to develop legal normative documentation and implement it in code. The volumes of the documents were to be tens of thousands of pages and a dozen companies had to develop and implement them.
 
-During R&D, we analyzed similar projects (UN/CEFACT, NIEM, WCO DM, etc.) and proposed to develop a methodology for modeling common processes and structures of electronic documents. In a very truncated form it was adopted by the Decision No 63 of the College of the Eurasian Economic Commission at 09.06.2015 "On Methodology of analysis, harmonization and description of common processes under the Eurasian Economic Union". I developed part of the methodology and an UML profile (with hundreds of OCL constraints) for the methodology. More than a hundred analysts from a dozen companies in accordance with this methodology developed UML models.
+During R&D, we analyzed similar projects (UN/CEFACT, NIEM, WCO DM, etc.) and proposed to develop a methodology for modelling common processes and structures of electronic documents. In a very truncated form it was adopted by the Decision No 63 of the College of the Eurasian Economic Commission at 09.06.2015 "On Methodology of analysis, harmonization and description of common processes under the Eurasian Economic Union". I developed a part of the methodology and an UML profile (with hundreds of OCL constraints) for the methodology. More than a hundred analysts from a dozen companies in accordance with this methodology developed UML models.
 
-Данные UML модели загружались в репозиторий моделей (eomi.eaeunion.org), в котором на их основе формировались нормативные документы для процессов и XML схемы. Я участвовал в разработке данного репозиторий в качестве системного аналитика. Также, в качестве бизнес-аналитика, я участвовал в проектировании некоторых общих процессов mainly in the areas of intellectual property, transport control, sanitary and veterinary control, drug circulation, etc.
-
-UML models were uploaded into the model repository (eomi.eaeunion.org), in which the normative documents for processes and XML schemas were generated. I participated in the development of the repository as a system analyst. Also, as a business analyst, I participated in the design of some common processes mainly in the areas of intellectual property, transport control, sanitary and veterinary control, drug circulation, etc.
+UML models were uploaded into the model repository (eomi.eaeunion.org), in which the normative documents for processes and XML schemas were generated. I participated in the development of the repository as a system analyst. Also, as a business analyst, I participated in the design of some common processes and structures of electronic documents, mainly in the areas of intellectual property, transport control, sanitary and veterinary control, drug circulation, etc.
 
 Also, I trained analysts of UML, OCL, BPMN, XSD, etc., advised them on modelling issues, and controlled the modelling quality. I developed plugins for Rational Software Architect Designer to simplify the work of analysts.
 
@@ -108,7 +108,7 @@ This was my second major project in this company. The Bank of Russia decided to 
 
 I developed a translator from UML models with OCL expressions to XSLT or Java code with XPath expressions.
 
-A number of publications have been published on the subject of both projects (see Publications section below).
+I wrote a number of articles on the subject of both projects (see Publications section below).
 
 ### Aug. 2008 – Feb. 2013, Bonum (one of the largest children rehabilitation centers in Russia)
 Lead developer (C#) and project manager
@@ -140,10 +140,10 @@ I wrote several scientific articles on function cost analysis, balanced scorecar
 ### July 2007 – June 2012, Ural Federal University
 Teacher on business process modelling
 
-### Jan. 2000 – Dec. 2005, Freelance
+### Jan. 2000 – Dec. 2015, Freelance occasionally
 Web-developer
 
-I developed and maintained several web-sites. I have a deep understanding of PHP, HTML, CSS, MySQL, JavaScript, Drupal. The most interesting project was a news portal of ITAR-TASS Ural. For more than 10 years, it has been a fairly powerful news portal, now it has been combined with the main ITAR-TASS portal.
+I developed and maintained several web-sites. The most interesting project was a news portal of ITAR-TASS Ural. For more than 10 years, it has been a fairly powerful news portal, now it has been combined with the main ITAR-TASS portal. I have a deep understanding of PHP, HTML, CSS, MySQL, JavaScript, Drupal.
 
 ## Education
 
