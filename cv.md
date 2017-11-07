@@ -39,6 +39,7 @@ E-mail: denis.nikif (at) gmail.com
 
 - .NET (C#, WinForms, WPF, DevExpress, XAF, Entity Framework, LINQ) - 5 years, good
 - Java - 2 years, average
+- XSLT, XML Schema, XPath - 10 years, excellent
 - Assembler x86, C, C++, Haskell, Lisp, Prolog, Python, Ruby, Isabelle HOL, etc. - basic knowledge
 
 ### Web development
@@ -48,12 +49,6 @@ E-mail: denis.nikif (at) gmail.com
 - JavaScript - 5 years, good
 - D3.js - 3 years, good
 - JayData, Backbone.js, Knockout.js, etc. - basic knowledge
-
-### XML
-
-- XSLT - 10 years, excellent
-- XSD - 10 years, excellent
-- XPath - 10 years, excellent
 
 ### Database and data warehouse
 
