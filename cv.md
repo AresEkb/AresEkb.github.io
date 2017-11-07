@@ -57,7 +57,7 @@ E-mail: denis.nikif (at) gmail.com
 - CSS - 10 years, excellent
 - Drupal - 5 years, good
 - JavaScript - 5 years, good
-- d3js - 3 years, good
+- D3.js - 3 years, good
 - JayData, Backbone.js, Knockout.js, etc. - basic knowledge
 
 ### XML
