@@ -95,6 +95,11 @@ E-mail: denis.nikif (at) gmail.com
 - Windows - 20 years, good
 - Linux - 10 years, good
 
+### Supporting tools
+
+- Git - 5 years, good
+- Jira - 5 years, good
+
 ## Experience
 
 ### March 2013 – Present
