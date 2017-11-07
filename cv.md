@@ -9,7 +9,9 @@ At present I'm trying to finish my PhD thesis on OCL to XPath transformation. I'
 ## Contacts
 
 Name: Denis
+
 Phone: +7(902)255-88-30
+
 E-mail: denis.nikif@gmail.com
 
 ## Key skills
