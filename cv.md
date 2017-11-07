@@ -38,7 +38,7 @@
 - DevExpress, XAF - 5 years, good
 - Entity Framework, LINQ - 5 years, good
 - Java - 2 years, average
-- Assembler x86, C, C++, Haskell, OCaml, Lisp, Prolog, Python, Ruby, Isabelle HOL, etc. - basic knowledge
+- Assembler x86, C, C++, Haskell, Lisp, Prolog, Python, Ruby, Isabelle HOL, etc. - basic knowledge
 
 ### Web development
 
@@ -90,16 +90,58 @@
 ### March 2013 – Present
 Expert of the modelling methodology group
 
-Я участвовал в качестве методолога в одном из крупнейших интеграционных проектов в бывшем СССР - Integrated information system of the Eurasian Economic Union (EAEU). 
+#### Integrated information system of the Eurasian Economic Union (EAEU)
+
+Я участвовал в качестве методолога в одном из крупнейших интеграционных проектов в бывшем СССР - Integrated information system of the EAEU. Суть проекта заключается в упрощении информационного взаимодействия между уполномоченными органами государств-членов ЕАЭС. Было определено более сотни трансграничных общих процессов. Для каждого процесса было необходимо разработать нормативную документацию и реализовать его. Объемы нормативной документации должны были насчитывать десятки тысяч страниц и дюжина компаний должна была их разрабатывать и реализовывать.
+
+В рамках НИОКР мы проанализоровали аналогичные проекты (UN/CEFACT, NIEM, WCO DM, etc.) и предложили разработать единую методику моделирования общих процессов и структур электронных документов. In a very truncated form it was adopted by the Decision No 63 of the College of the Eurasian Economic Commission at 09.06.2015 "On Methodology of analysis, harmonization and description of common processes under the Eurasian Economic Union". Более сотни аналитиков из дюжины компаний в соответствии с данной методикой разрабатывали UML модели. I developed an UML profile (with hundreds OCL constraints) for the modelling methodology.
+
+Данные UML модели загружались в репозиторий моделей (eomi.eaeunion.org), в котором на их основе формировались нормативные документы для процессов и XML схемы. Я участвовал в разработке данного репозиторий в качестве системного аналитика. Также, в качестве бизнес-аналитика, я участвовал в проектировании некоторых общих процессов mainly in the areas of intellectual property, transport control, sanitary and veterinary control, drug circulation, etc.
+
+Also, I trained analysts of UML, OCL, BPMN, XSD, etc., advised them on modelling issues, and controlled the modelling quality. I developed plugins for Rational Software Architect Designer для упрощения работы аналитиков.
+
+#### Improved analogue of SWIFT MyStandards for The Central Bank of the Russian Federation
+
+Это был мой второй крупный проект в данной компании. Банк России принял решение использовать ISO 20022 для финансовых сообщений. Один из основных недостатков ISO 20022 заключается в том, что он не предлагает механизм формального описания правил валидации сообщений. Обычно правила описываются на естественном языке и затем реализуются вручную. Мы предложили описывать данные правила на формальном Object Constraint Language (OCL) и затем формировать на их основе XSLT, Java и другие реализации под требуемые платформы. Это позволяет полностью исключить разработчиков из процесса разработки правил и сэкономить значительные ресурсы. The idea is mentioned in the Bank of Russia Standard STO BR NPS-1.0-2017 "Financial messages in the NPS. General terms".
+
+I developed a translator from UML models with OCL expressions to XSLT or Java code with XPath expressions.
+
+По тематике обоих проектов опубликован ряд публикаций (см. Публикации ниже).
 
 ### Aug. 2008 – Feb. 2013, Bonum (one of the largest children rehabilitation centers in Russia)
 Lead developer (C#) and project manager
+
+#### Medical information system
+
+At the time the work began, Bonum already used a number of disparate accounting systems based on FoxPro, MS Access, Delphi. We developed a single database for them (MS SQL), a single engine (C#, DevExpress), transferred most of the existing accounting systems to a new engine, developed a number of new subsystems.
+
+The following modules were implemented: polyclinic, hospital, paid services (cosmetology, stomatology), electronic health record, laboratory, sick list, situational center, contact center, science, publications, HR, purchases, PACS (DCM4CHEE), analytics (SSAS).
+
+Также я автоматизировал формирование большей части отчетности с помощью OLAP. Я реализовал OLAP cubes for ambulatory, hospital, and medical follow-up.
+
+#### Analytical work
+
+I modelled business processes (BPMN, IDEFX, Signavio Oryx, EleWise ELMA):
+- main (rehabilitation of children – complex processes, lasting till 18 years, with a lot of participants),
+- supporting (recruitment, purchases).
+
+I helped doctors with statistical data analysis in their dissertation research (SPSS, Statistica, self-written plugin using Excel-DNA).
+
+#### Also
+
+I developed and maintened information kiosks (C#, WPF), website www.bonum.info (PHP, Drupal, HTML, CSS). It worked successfully for several years. Unfortunately, now the company lacks its own web-developers, so the site was replaced by a typical solution: with pictures of 200px wide on the screen and 5Mb in size, without forum, etc.
+
+Я инициировал и руководил проектом on the IP telephony implementation (4 distributed offices) and the contact center creation.
+
+I wrote several scientific articles on function cost analysis, balanced scorecard, process modelling, etc. in healthcare.
 
 ### July 2007 – June 2012, Ural Federal University
 Teacher on business process modelling
 
 ### Jan. 2000 – Dec. 2005, Freelance
 Web-developer
+
+I developed and maintained several web-sites. I have a deep understanding of PHP, HTML, CSS, MySQL, JavaScript, Drupal. The most interesting project was a news portal of ITAR-TASS Ural. For more than 10 years, it has been a fairly powerful news portal, now it has been combined with the main ITAR-TASS portal.
 
 ## Education
 
@@ -112,7 +154,7 @@ Engineer, specialist in computer systems and networks
 Certificate of professional development on venture capital financing
 
 ### 2017, DataCamp
-About 10 online courses on R, Machine Learning, Data Visualization, etc.
+9 online courses on R, machine learning, data visualization, etc.
 
 ## Publications
 
