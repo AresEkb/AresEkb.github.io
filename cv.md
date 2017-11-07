@@ -69,7 +69,7 @@ E-mail: denis.nikif (at) gmail.com
 ### Database and data warehouse
 
 - SQL Server - 5 years, good
-- SSAS - 5 years, good
+- SSAS (OLAP) - 5 years, good
 - SSIS - 5 years, good
 - MySQL - 5 years, good
 - PostgreSQL - 2 years, average
