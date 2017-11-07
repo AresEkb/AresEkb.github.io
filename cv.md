@@ -2,7 +2,7 @@
 
 ## Overview
 
-I have a broad outlook in the field of IT. I was engaged in both development and analytical work in the fields of intergovernemnt information exchange and healthcare. Also I have experience in statistical analysis of medical data, experience in OLAP cube development and considerable experience in web development. At the moment, I'm most interested in model-driven development, EDI and data analysis.
+I have a broad outlook in the field of IT. I was engaged in both development and analytical work in the fields of intergovernment information exchange and healthcare. Also I have experience in statistical analysis of medical data, experience in OLAP cube development and considerable experience in web development. At the moment, I'm most interested in model-driven development, EDI and data analysis.
 
 At present I'm trying to finish my PhD thesis on OCL to XPath transformation. I'm stuck a little bit on it's formal verification using Isabelle HOL.
 
