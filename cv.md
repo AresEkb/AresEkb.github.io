@@ -2,7 +2,7 @@
 
 ## Overview
 
-I have a broad outlook in the field of IT. I was engaged in both development and analytical work in the fields of intergovernment information exchange and healthcare. Also I have experience in statistical analysis of medical data, experience in OLAP cube development and considerable experience in web development. At the moment, I'm most interested in model-driven development, EDI and data analysis.
+I have a broad outlook in the field of IT. I was engaged in both development and analytical work in the fields of intergovernmental information exchange and healthcare. Also I have experience in statistical analysis of medical data, experience in OLAP cube development and considerable experience in web development. At the moment, I'm most interested in model-driven development, EDI and data analysis.
 
 At present I'm trying to finish my PhD thesis on OCL to XPath transformation. I'm stuck a little bit on it's formal verification using Isabelle HOL.
 
@@ -131,7 +131,7 @@ I helped doctors with statistical data analysis in their dissertation research (
 
 #### Also
 
-I developed and maintened information kiosks (C#, WPF), website www.bonum.info (PHP, Drupal, HTML, CSS). It worked successfully for several years. Unfortunately, now the company lacks its own web-developers, so the site was replaced by a typical solution: with pictures of 200px wide on the screen and 5Mb in size, without forum, etc.
+I developed and maintained information kiosks (C#, WPF), website www.bonum.info (PHP, Drupal, HTML, CSS). It worked successfully for several years. Unfortunately, now the company lacks its own web-developers, so the site was replaced by a typical solution: with pictures of 200px wide on the screen and 5Mb in size, without forum, etc.
 
 I initiated and leaded the project on the IP telephony implementation (4 distributed offices) and the contact center creation.
 
