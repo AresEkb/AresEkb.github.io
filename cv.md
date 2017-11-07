@@ -124,7 +124,7 @@ I developed a translator from UML models with OCL constraints to XSLT or Java co
 I wrote a number of articles on the subject of both projects (see Publications section below).
 
 ### Aug. 2008 – Feb. 2013, Bonum (one of the largest children rehabilitation centers in Russia)
-Lead developer (C#) and project manager
+Lead C# developer and project manager
 
 #### Medical information system
 
@@ -154,7 +154,7 @@ I wrote several scientific articles on function cost analysis, balanced scorecar
 Teacher on business process modelling
 
 ### Jan. 2000 – Dec. 2015, Freelance occasionally
-Web-developer
+Web developer
 
 I developed and maintained several web-sites. The most interesting project was a news portal of ITAR-TASS Ural. For more than 10 years, it has been a fairly powerful news portal, now it has been combined with the main ITAR-TASS portal. I have a deep understanding of PHP, HTML, CSS, MySQL, JavaScript, Drupal.
 
