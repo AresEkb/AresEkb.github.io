@@ -18,8 +18,7 @@ E-mail: denis.nikif (at) gmail.com
 
 ### Modelling methodologies and models
 
-- UN/CEFACT UMM - 4 years, good
-- UN/CEFACT CCTS + CCL - 4 years, good
+- UN/CEFACT UMM + CCTS + CCL - 4 years, good
 - WCO Data Model - 4 years, good
 - ISO 20022 - 3 years, good
 - NIEM - 1 year, good
@@ -33,28 +32,18 @@ E-mail: denis.nikif (at) gmail.com
 
 ### Model-driven development
 
-- QVTo - 4 years, excellent
-- Acceleo - 4 years, excellent
-- OCL - 4 years, excellent
-- Eclipse Modeling Framework - 4 years, good
-- EMFText - 4 years, good
+- Eclipse Modeling Framework, QVTo, Acceleo, OCL, EMFText - 4 years, good
 - Eclipse Sirius - 2 years, good
 
 ### Enterprise development
 
-- C# - 5 years, good
-- WinForms - 5 years, good
-- WPF - 5 years, good
-- DevExpress, XAF - 5 years, good
-- Entity Framework, LINQ - 5 years, good
+- .NET (C#, WinForms, WPF, DevExpress, XAF, Entity Framework, LINQ) - 5 years, good
 - Java - 2 years, average
 - Assembler x86, C, C++, Haskell, Lisp, Prolog, Python, Ruby, Isabelle HOL, etc. - basic knowledge
 
 ### Web development
 
-- PHP - 10 years, good
-- HTML - 10 years, excellent
-- CSS - 10 years, excellent
+- PHP, HTML, CSS - 10 years, good
 - Drupal - 5 years, good
 - JavaScript - 5 years, good
 - D3.js - 3 years, good
@@ -68,18 +57,14 @@ E-mail: denis.nikif (at) gmail.com
 
 ### Database and data warehouse
 
-- SQL Server - 5 years, good
-- SSAS (OLAP) - 5 years, good
-- SSIS - 5 years, good
+- SQL Server, SSAS (OLAP), SSIS - 5 years, good
 - MySQL - 5 years, good
-- PostgreSQL - 2 years, average
-- Oracle - 1 year, average
+- PostgreSQL, Oracle - 1 year, average
 - Anchor, Data Vault - basic knowledge
 
 ### Statistics
 
-- SPSS - 3 years, good
-- Statistica - 3 years, good
+- SPSS, Statistica - 3 years, good
 - Self-written plugin for Excel - 3 years, good
 - R - 1 year, good
 
