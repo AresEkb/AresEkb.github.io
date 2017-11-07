@@ -2,7 +2,7 @@
 
 ## Overview
 
-I have a broad outlook in the field of IT. I was engaged in both development and analytical work in the fields of intergovernmental information exchange and healthcare. Also I have experience in statistical analysis of medical data, experience in OLAP cube development and considerable experience in web development. At the moment, I'm most interested in model-driven development, EDI and data analysis.
+I have a broad outlook in the field of IT. I was engaged in both development and analytical work in the fields of intergovernmental information exchange and healthcare. Also I have experience in statistical analysis of medical data, experience in BI development and considerable experience in web development. At the moment, I'm most interested in model-driven development, EDI and data analysis.
 
 At present I'm trying to finish my PhD thesis on OCL to XPath transformation. I'm stuck a little bit on it's formal verification using Isabelle HOL.
 
@@ -18,67 +18,59 @@ E-mail: denis.nikif (at) gmail.com
 
 ### Modelling methodologies and models
 
-- UN/CEFACT UMM + CCTS + CCL - 4 years, good
-- WCO Data Model - 4 years, good
-- ISO 20022 - 3 years, good
-- NIEM - 1 year, good
-- WIPO Standard ST.96, ISO 7372, UBL, eTIR, eFreight, HL7- basic knowledge
+- UN/CEFACT UMM, CCTS, CCL - 4 years
+- WCO Data Model - 4 years
+- ISO 20022 - 3 years
+- NIEM - 1 year
+- WIPO Standard ST.96, ISO 7372, UBL, eTIR, eFreight, HL7 - basic knowledge
 
 ### Modelling languages
 
-- UML - 10 years, excellent
-- BPMN - 5 years, good
-- IDEFx - 3 years, good
+- UML - 10 years
+- BPMN, IDEFx - 5 years
 
 ### Model-driven development
 
-- Eclipse Modeling Framework, QVTo, Acceleo, OCL, EMFText - 4 years, good
-- Eclipse Sirius - 2 years, good
+- Eclipse Modeling Framework, QVTo, Acceleo, OCL, EMFText - 4 years
+- Eclipse Sirius - 2 years
 
 ### Enterprise development
 
-- .NET (C#, WinForms, WPF, DevExpress, XAF, Entity Framework, LINQ) - 5 years, good
-- Java - 2 years, average
-- XSLT, XML Schema, XPath - 10 years, excellent
+- .NET (C#, WinForms, WPF, DevExpress, XAF, Entity Framework, LINQ) - 5 years
+- Java - 2 years
+- XSLT, XML Schema, XPath - 10 years
 - Assembler x86, C, C++, Haskell, Lisp, Prolog, Python, Ruby, Isabelle HOL, etc. - basic knowledge
 
 ### Web development
 
-- PHP, HTML, CSS - 10 years, good
-- Drupal - 5 years, good
-- JavaScript - 5 years, good
-- D3.js - 3 years, good
+- PHP, HTML, CSS - 10 years
+- Drupal - 5 years
+- JavaScript (D3.js) - 5 years
 - JayData, Backbone.js, Knockout.js, etc. - basic knowledge
 
 ### Database and data warehouse
 
-- SQL Server, SSAS (OLAP), SSIS - 5 years, good
-- MySQL - 5 years, good
-- PostgreSQL, Oracle - 1 year, average
+- SQL Server, SSAS (OLAP), SSIS - 5 years
+- MySQL - 5 years
+- PostgreSQL, Oracle - 1 year
 - Anchor, Data Vault - basic knowledge
 
 ### Statistics
 
-- SPSS, Statistica - 3 years, good
-- Self-written plugin for Excel - 3 years, good
-- R - 1 year, good
+- SPSS, Statistica - 3 years
+- Self-written plugin for Excel - 3 years
+- R - 1 year
 
 ### CASE tools
 
-- Rational Software Architect - 5 years, excellent
-- ERwin Process (and Data) Modeler - 3 years, good
-- Signavio Oryx - 3 years, good
-- EleWise ELMA - 3 years, good
+- Rational Software Architect - 5 years
+- ERwin Process (and Data) Modeler, Signavio Oryx, EleWise ELMA - 3 years
 
-### OS
+### Misc
 
-- Windows - 20 years, good
-- Linux - 10 years, good
-
-### Supporting tools
-
-- Git - 5 years, good
-- Jira - 5 years, good
+- Linux - 10 years
+- Git - 5 years
+- Jira - 5 years
 
 ## Experience
 
