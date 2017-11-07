@@ -12,7 +12,7 @@ Name: Denis
 
 Phone: +7(902)255-88-30
 
-E-mail: denis.nikif@gmail.com
+E-mail: denis.nikif (at) gmail.com
 
 ## Key skills
 
