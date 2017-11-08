@@ -4,7 +4,7 @@
 
 I have a broad outlook in the field of IT. I was engaged in both development and analytical work in the fields of intergovernmental information exchange and healthcare. Also I have experience in statistical analysis of medical data, experience in BI development and considerable experience in web development. At the moment, I'm most interested in model-driven development, EDI and data analysis.
 
-At present I'm trying to finish my PhD thesis on OCL to XPath transformation. I'm stuck a little bit on it's formal verification using Isabelle HOL.
+At present I finish my PhD thesis on OCL to XPath transformation. I'm to porove its correctness using Isabelle HOL.
 
 ## Contacts
 
