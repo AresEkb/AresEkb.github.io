@@ -4,7 +4,7 @@
 
 I have a broad outlook in the field of IT. I was engaged in both development and analytical work in the fields of intergovernmental information exchange and healthcare. Also I have experience in statistical analysis of medical data, experience in BI development and considerable experience in web development. At the moment, I'm most interested in model-driven development, EDI and data analysis.
 
-At present I finish my PhD thesis on OCL to XPath transformation. I'm trying to porove its correctness using Isabelle HOL.
+At present I finish my PhD thesis on OCL to XPath transformation. I'm trying to prove its correctness using Isabelle HOL.
 
 ## Contacts
 
@@ -87,6 +87,8 @@ UML models were uploaded into the model repository (eomi.eaeunion.org), in which
 
 Also, I trained analysts of UML, OCL, BPMN, XSD, etc., advised them on modelling issues, and controlled the modelling quality. I developed plugins for Rational Software Architect Designer to simplify the work of analysts.
 
+I participated in writing the "Methodology for the development, maintenance and use of code lists and classifiers that are part of the unified system of normative and reference information of the EAEU" (not yet approved). Analyzed code lists used in the EAEU member states, developed some harmonized code lists.
+
 #### Improved analogue of SWIFT MyStandards for The Central Bank of the Russian Federation
 
 This was my second major project in this company. The Bank of Russia decided to use ISO 20022 for financial messages. One of the main drawbacks of ISO 20022 is that it does not offer a mechanism for formal description of message validation rules. Usually rules are described in natural language and then implemented manually in programming language. We proposed to describe these rules on the formal Object Constraint Language (OCL) and then generate XSLT, Java, and other implementations for the required platforms. This allows one to completely exclude developers from the process of rule development and save significant resources. The idea is mentioned in the Bank of Russia Standard STO BR NPS-1.0-2017 "Financial messages in the NPS. General terms".
@@ -116,7 +118,7 @@ I helped doctors with statistical data analysis in their dissertation research (
 
 #### Also
 
-I developed and maintained information kiosks (C#, WPF), website www.bonum.info (PHP, Drupal, HTML, CSS). It worked successfully for several years. Unfortunately, now the company lacks its own web-developers, so the site was replaced by a typical solution: with pictures of 200px wide on the screen and 5Mb in size, without forum, etc.
+I developed and maintained information kiosks (C#, WPF) and website www.bonum.info (PHP, Drupal, HTML, CSS). It worked successfully for several years. Unfortunately, now the company lacks its own web-developers, so the site was replaced by a typical solution: with pictures of 200px wide on the screen and 5Mb in size, without forum, etc.
 
 I initiated and leaded the project on the IP telephony implementation (4 distributed offices) and the contact center creation.
 
