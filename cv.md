@@ -93,7 +93,7 @@ I participated in writing the "Methodology for the development, maintenance and 
 
 This was my second major project in this company. The Bank of Russia decided to use ISO 20022 for financial messages. One of the main drawbacks of ISO 20022 is that it does not offer a mechanism for formal description of message validation rules. Usually rules are described in natural language and then implemented manually in programming language. We proposed to describe these rules on the formal Object Constraint Language (OCL) and then generate XSLT, Java, and other implementations for the required platforms. This allows one to completely exclude developers from the process of rule development and save significant resources. The idea is mentioned in the Bank of Russia Standard STO BR NPS-1.0-2017 "Financial messages in the NPS. General terms".
 
-I developed a translator from UML models with OCL constraints to XSLT or Java code with XPath expressions. I participated as a system analyst in the development of the entire system, wrote technical documentation, assigned tasks for developers.
+I proposed the idea and developed the translator from UML models with OCL constraints to XSLT or Java code with XPath expressions. I participated as a system analyst in the development of the entire system, wrote technical documentation, assigned tasks for developers.
 
 I wrote a number of articles on the subject of both projects (see Publications section below).
 
