@@ -18,8 +18,7 @@ E-mail: denis.nikif (at) gmail.com
 
 ### Modelling methodologies and models
 
-- UN/CEFACT UMM, CCTS, CCL - 4 years
-- WCO Data Model - 4 years
+- UN/CEFACT UMM, CCTS, CCL, WCO Data Model, ISO 11179 - 4 years
 - ISO 20022 - 3 years
 - NIEM - 1 year
 - WIPO Standard ST.96, ISO 7372, UBL, eTIR, eFreight, HL7 - basic knowledge
