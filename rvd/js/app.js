@@ -339,7 +339,7 @@ var orgChart = (function() {
  
       var u_childwidth = parseInt((_root.children.length * _rectW) / 2);
  
-      _svgroot = d3.select(id).append("svg").attr("width", width).attr("height", height)
+      _svgroot = d3.select(id).append("svg").attr("width", "100%").attr("height", "100%")
                    .call(zm = d3.behavior.zoom().scaleExtent([0.15,3]).on("zoom", redraw));
       _svg = _svgroot.append("g")
                      .attr("transform", "translate(" + parseInt(u_childwidth + ((width - u_childwidth * 2) / 2) - _margin.left / 2) + "," + 20 + ")");
