@@ -1,0 +1,27 @@
+#chart {
+  margin: 0px 0px 10px 0px;
+  border: 1px solid gray;
+  width: 800px;
+  height: 500px;
+  background-color: #fff;
+  cursor: move;
+}
+
+.node {
+  cursor: default;
+}
+
+.node text {
+  font: 12px sans-serif;
+  fill: #FFFFFF;
+}
+ 
+.node rect {
+ 
+}
+ 
+.link {
+  fill: none;
+  stroke: #424242;
+  stroke-width: 1.5px;
+}
